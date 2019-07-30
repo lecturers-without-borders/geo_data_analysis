@@ -17,5 +17,7 @@ We also apply some trajectories analysis techniques to characterize mobiltiy tra
 
 We also analyze global mobility data from openflights and global mobility data https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a97758cd17cdecd1fb (accessed June 2019)
 
+In notebook *LeWiBo_on_map.ipynb* we visualise lectures without borders on a map. Work in progress.
+
 
 
