@@ -12,7 +12,7 @@ and here:
 (repository in collaboration with Bastian from openhumans.org on analysis of open mobility data) 
 
 ### Aanalysis of mobility data 
-In first notebook we analyse mobility data from openhumans platform in order to apply it later to researchers mobility data.
+In first notebook *analysis_human_mobility_opendata.ipynb* we analyse Individual mobility data from openhumans platform in order to apply it later to researchers mobility data.
 We also apply some trajectories analysis techniques to characterize mobiltiy trajectory.
 
 
