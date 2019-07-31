@@ -11,7 +11,7 @@ and here:
 2. https://github.com/Liyubov/mobility_analysis 
 (repository in collaboration with Bastian from openhumans.org on analysis of open mobility data) 
 
-### Aanalysis of mobility data 
+### Simple visualisation of mobility and static data 
 In first notebook *analysis_human_mobility_opendata.ipynb* we analyse Individual mobility data from openhumans platform in order to apply it later to researchers mobility data.
 We also apply some trajectories analysis techniques to characterize mobiltiy trajectory.
 
