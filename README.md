@@ -2,7 +2,9 @@
 
 This is README for geo_data_analysis for Lecturers without borders https://scied.network/how-lecturerswb-works/ .
 Here we mostly analysis spatial dimensions of data from Lecturers without borders. 
-All data is depersonalized and no data files are uploaded without permissions of the owners of the information.
+All data is depersonalized and no data files are uploaded without permissions of the owners of the information (description in process).
+
+*Contributors* to this repository are welcome. Please write to us if you would like to work on issues or start a new repository or tell us about bugs.
 
 More information about geolocation data analysis can be found here:
 1. https://github.com/Liyubov/data_analysis_for_social_good
