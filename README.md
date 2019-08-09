@@ -19,7 +19,10 @@ We also apply some trajectories analysis techniques to characterize mobility tra
 
 We also analyze global mobility data from openflights and global mobility data https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a97758cd17cdecd1fb (accessed June 2019)
 
-In notebook *LeWiBo_on_map.ipynb* we visualise some data points from "Lectures without borders" on a map. Work in progress.
+In notebook *LeWiBo_on_map.ipynb* we visualise some data points from "Lectures without borders" on a map (Work in progress).
+
+In notebook *get_schools_from_locations.ipynb* we are using open data from Openstreetmaps (OSM) to make API calls and prepare open depersonalized dataset of datapoints with certain amenities (see OSM documentation school-mapping.azurewebsites.net) for a certain location.
+
 
 
 
