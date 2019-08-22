@@ -13,15 +13,14 @@ and here:
 2. https://github.com/Liyubov/mobility_analysis 
 (repository in collaboration with Bastian from openhumans.org on analysis of open mobility data) 
 
-### Simple visualisation of mobility and static data 
-In the first notebook *analysis_human_mobility_opendata.ipynb* we analyse Individual mobility data from openhumans platform in order to apply it later to general patterns of researchers mobility data.
-We also apply some trajectories analysis techniques to characterize mobility trajectories.
+### Code for simple visualisation of mobility and static data 
+1. In the first notebook *analysis_human_mobility_opendata.ipynb* we analyse Individual mobility data from openhumans platform in order to apply it later to general patterns of researchers mobility data. We also apply some trajectories analysis techniques to characterize mobility trajectories.
 
-We also analyze global mobility data from openflights and global mobility data https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a97758cd17cdecd1fb (accessed June 2019)
+2. We also analyze global mobility data from openflights and global mobility data https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a97758cd17cdecd1fb (accessed June 2019)
 
-In notebook *LeWiBo_on_map.ipynb* we visualise some data points from "Lectures without borders" on a map (Work in progress).
+3. In notebook *LeWiBo_on_map.ipynb* we visualise some data points from "Lectures without borders" on a map (Work in progress). We plot the countries on a map, where we have participants from "Lecturers without borders".
 
-In notebook *get_schools_from_locations.ipynb* we are using open data from Openstreetmaps (OSM) to make API calls and prepare open depersonalized dataset of datapoints with certain amenities (see OSM documentation school-mapping.azurewebsites.net) for a certain location.
+4. In notebook *get_schools_from_locations.ipynb* we are using open data from Openstreetmaps (OSM) to make API calls and prepare open depersonalized dataset of datapoints with certain amenities (see OSM documentation school-mapping.azurewebsites.net) for a certain location. This notebook can also be applied to analysis of other amenities on openstreetmaps with missing information, e.g. buildings with missing information etc as shown on the screenshot openstreetmap_example.png.
 
 
 
