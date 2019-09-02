@@ -1,3 +1,8 @@
+# Data analysis for social good
+
+Here we focus on analysis of data, in particular, data located in space. 
+We depersonalise data which we get from project "Lecturers without borders" and get most of the research questions from there.
+
 ### Geolocation data analysis
 
 This is README for geo_data_analysis for Lecturers without borders project https://scied.network/how-lecturerswb-works/ .
