@@ -1,9 +1,17 @@
-# Data analysis for social good
+## Data analysis for social good
 
 Here we focus on analysis of data, in particular, data located in space. 
 We depersonalise data which we get from project "Lecturers without borders" and get most of the research questions from there.
 
-### Geolocation data analysis
+
+## Code for analysis of data
+We also put some recent code for analysis of open and depersonalized data for functionality of "Lecturers without borders".
+If you would like to collaborate with us please contact us at *networkscied at gmail.com* or *liubov.tupikina at cri-paris.org*
+
+
+
+
+#### Geolocation data analysis
 
 This is README for geo_data_analysis for Lecturers without borders project https://scied.network/how-lecturerswb-works/ .
 Here we mostly do analysis of spatial dimensions of data from "Lecturers without borders" project. 
@@ -18,7 +26,7 @@ and here:
 2. https://github.com/Liyubov/mobility_analysis 
 (repository in collaboration with Bastian from openhumans.org on analysis of open mobility data) 
 
-### Code for simple visualisation of mobility and static data 
+#### Code for simple visualisation of mobility and static data 
 1. In the first notebook *analysis_human_mobility_opendata.ipynb* we analyse Individual mobility data from openhumans platform in order to apply it later to general patterns of researchers mobility data. We also apply some trajectories analysis techniques to characterize mobility trajectories.
 
 2. We also analyze global mobility data from openflights and global mobility data https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a97758cd17cdecd1fb (accessed June 2019)
@@ -27,6 +35,21 @@ and here:
 
 4. In notebook *get_schools_from_locations.ipynb* we are using open data from Openstreetmaps (OSM) to make API calls and prepare open depersonalized dataset of datapoints with certain amenities (see OSM documentation school-mapping.azurewebsites.net) for a certain location. This notebook can also be applied to analysis of other amenities on openstreetmaps with missing information, e.g. buildings with missing information etc as shown on the screenshot openstreetmap_example.png.
 
+
+
+
+
+
+
+### Usage of code
+
+You can us the code in notebooks for browsing the data or managing the data collected from your project. In case of any errors or issues please contact us.
+
+### Contributing 
+
+The project is under development and we are open for collaborations. We collaborate with mostly educational and data analysis projects in various regions and countries. If you would like to join our team of educators, data scientists and coordinators, please write to us to liubov.tupikina AT cri-paris.org
+
+We also are using slack in our community and would be happy to include you after you fill in the registration at https://scied.network/page
 
 
 
