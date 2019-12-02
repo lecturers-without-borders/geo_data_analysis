@@ -7,10 +7,10 @@ We depersonalise data which we get from project "Lecturers without borders" and 
 
 ## Data collection 
 
-We collect the data in the project from Open Humans
-https://www.openhumans.org/activity/mobility-data-of-researchers/ 
-Feel free to join the project!
+1. We collect the geolocation data of human trajectories in the project from Open Humans
+https://www.openhumans.org/activity/mobility-data-of-researchers/  Feel free to join the project!
 We are open for researchers around the world, who would like to analyze or donate their data through openhumans.org platform.
+2. We collect the data from schools and amenities around human trajectories using https://www.thedatapond.net and osmnx package
 
 
 ## Code for analysis of data
