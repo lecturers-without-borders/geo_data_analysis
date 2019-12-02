@@ -2,14 +2,15 @@
 
 ## Data analysis
 
-Here we focus on analysis of data, in particular, data located in space. 
+Here we analyse geolocation data. 
 We depersonalise data which we get from project "Lecturers without borders" and get most of the research questions from there.
 
 ## Data collection 
 
-We are open for researchers around the world, who would like to analyze or donate their data through openhumans.org platform 
+We collect the data in the project from Open Humans
 https://www.openhumans.org/activity/mobility-data-of-researchers/ 
-Feel free to join the project
+Feel free to join the project!
+We are open for researchers around the world, who would like to analyze or donate their data through openhumans.org platform.
 
 
 ## Code for analysis of data
