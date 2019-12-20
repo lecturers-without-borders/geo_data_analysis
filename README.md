@@ -44,10 +44,11 @@ and here:
 
 4. In notebook *get_schools_from_locations.ipynb* we are using open data from Openstreetmaps (OSM) to make API calls and prepare open depersonalized dataset of datapoints with certain amenities (see OSM documentation school-mapping.azurewebsites.net) for a certain location. This notebook can also be applied to analysis of other amenities on openstreetmaps with missing information, e.g. buildings with missing information etc as shown on the screenshot openstreetmap_example.png.
 
-Website:
+### Websites for data analysis:
 
-https://www.batchgeo.com/
-
+1. https://www.batchgeo.com/
+2. https://export.hotosm.org/en/v3/learn
+3. https://www.openhumans.org/activity/mobility-data-of-researchers/
 
 
 
