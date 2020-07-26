@@ -35,6 +35,12 @@ and here:
 2. https://github.com/Liyubov/mobility_analysis 
 (repository in collaboration with Bastian from openhumans.org on analysis of open mobility data) 
 
+# References 
+[1] L.Tupikina et al.  “Multi-layer structure of networks”, Proceedings of NetSci  (NetSciEd) conference 2018 (M.Stella, M.Porter, edit.)
+
+[2] Hugo Barbosa-Filho, Marc Barthelemy, Gourab Ghoshal, Charlotte James, Maxime Lenormand, et al.. Human Mobility: Models and Applications. 2017. cea-01626252
+
+
 #### Code for simple visualisation of mobility and static data 
 1. In the first notebook *analysis_human_mobility_opendata.ipynb* we analyse Individual mobility data from openhumans platform in order to apply it later to general patterns of researchers mobility data. We also apply some trajectories analysis techniques to characterize mobility trajectories.
 
